@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/soham/DVC/mlruns/782171313799307226/96baa310723245a3b9cb6aec1d8bf882/artifacts
+end_time: 1724687922614
+entry_point_name: ''
+experiment_id: '782171313799307226'
+lifecycle_stage: active
+run_id: 96baa310723245a3b9cb6aec1d8bf882
+run_name: unequaled-rook-757
+run_uuid: 96baa310723245a3b9cb6aec1d8bf882
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724687917842
+status: 3
+tags: []
+user_id: Soham Chaudhari

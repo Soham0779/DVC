@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/soham/DVC/mlruns/782171313799307226/f11593870904414c9a99071080790de9/artifacts
+end_time: 1724688000566
+entry_point_name: ''
+experiment_id: '782171313799307226'
+lifecycle_stage: active
+run_id: f11593870904414c9a99071080790de9
+run_name: adventurous-cub-112
+run_uuid: f11593870904414c9a99071080790de9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724687994281
+status: 3
+tags: []
+user_id: Soham Chaudhari

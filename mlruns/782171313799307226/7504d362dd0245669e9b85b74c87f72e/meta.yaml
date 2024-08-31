@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/soham/DVC/mlruns/782171313799307226/7504d362dd0245669e9b85b74c87f72e/artifacts
+end_time: 1724687936255
+entry_point_name: ''
+experiment_id: '782171313799307226'
+lifecycle_stage: active
+run_id: 7504d362dd0245669e9b85b74c87f72e
+run_name: loud-turtle-520
+run_uuid: 7504d362dd0245669e9b85b74c87f72e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724687930421
+status: 3
+tags: []
+user_id: Soham Chaudhari
